@@ -10,7 +10,7 @@ void teste()
 
     mpfr_t x;
 
-    int p = 2048;
+    int p = 4096;
 
     mpfr_init2(value1d, p);
     mpfr_init2(value1u, p);

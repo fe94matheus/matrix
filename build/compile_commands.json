@@ -1,7 +1,7 @@
 [
 {
   "directory": "/home/felipe/Downloads/matrix/build",
-  "command": "/usr/local/bin/g++ -I/home/felipe/Downloads/matrix/include -g -std=gnu++23 -o CMakeFiles/MatrixProject.dir/src/main.cpp.o -c /home/felipe/Downloads/matrix/src/main.cpp",
+  "command": "/usr/local/bin/g++  -I/home/felipe/Downloads/matrix/include -g -std=gnu++23 -o CMakeFiles/MatrixProject.dir/src/main.cpp.o -c /home/felipe/Downloads/matrix/src/main.cpp",
   "file": "/home/felipe/Downloads/matrix/src/main.cpp",
   "output": "CMakeFiles/MatrixProject.dir/src/main.cpp.o"
 }
